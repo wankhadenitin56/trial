@@ -46,7 +46,7 @@ while True:
             print(num1, "*", num2, "=", mult(num1, num2))
 
         elif choice == '4':
-            print(num1, "/", num2, "=", divide(num1, num2))
+            print(num1, "/", num2, "=", devide(num1, num2))
         break
     else:
         print("Invalid Input")
